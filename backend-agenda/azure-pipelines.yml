@@ -656,5 +656,6 @@ stages:
                 du -sh $(DEPLOY_PATH)
               readyTimeout: '15000'
 
+
 # Post-execution cleanup and notifications
 # Azure DevOps maneja las notificaciones mediante la configuración del proyecto
